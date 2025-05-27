@@ -13,6 +13,14 @@
     "finance",
     "nodejs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aizethara/how-much-is-one-dollar-today.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aizethara/how-much-is-one-dollar-today/issues"
+  },
+  "homepage": "https://github.com/aizethara/how-much-is-one-dollar-today#readme",
   "author": "aizethara",
   "license": "MIT",
   "dependencies": {
