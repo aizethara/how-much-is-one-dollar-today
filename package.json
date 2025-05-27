@@ -1,0 +1,21 @@
+{
+  "name": "how-much-is-one-dollar-today",
+  "version": "1.0.0",
+  "description": "Simple tool to show exchange rates with full currency names.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "currency",
+    "exchange",
+    "rates",
+    "finance",
+    "nodejs"
+  ],
+  "author": "aizethara",
+  "license": "MIT",
+  "dependencies": {
+    "currency-codes": "^2.0.0"
+  }
+}

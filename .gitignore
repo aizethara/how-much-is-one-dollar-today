@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+dist/
+build/
+
+# System files (e.g., macOS and Windows)
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
